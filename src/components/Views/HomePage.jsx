@@ -41,7 +41,7 @@ function HomePage() {
         />
       </div>
       <div className="bg-white p-8 text-center mb-12">
-        <h3 className="text-2xl text-center text-black bg-gray-700 mb-4 font-bungee p-2 rounded-md shadow-md">
+        <h3 className="text-2xl text-center text-black bg-gray-400 mb-4 font-bungee p-2 rounded-md shadow-md">
           Experience the smoothest gin
         </h3>
         <p className="max-w-xl text-lg text-center text-black mb-8 font-gothic mx-auto shadow-md p-4">
@@ -57,13 +57,13 @@ function HomePage() {
       </div>
       <div className=" py-12"> 
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-white mb-8 font-bungee">
+          <h2 className="text-3xl font-bold text-white- text-center mb-8 font-bungee">
             Production Process
           </h2>
           <div className="bg-gray-600 p-6 rounded-lg">
             {/* STEP 1 */}
             <div className="mb-6">
-              <h3 className="text-xl font-bold text-red-600 mb-2 font-gothic">
+              <h3 className="text-xl font-bold text-black mb-2 font-gothic">
                 STEP 1: INFUSION
               </h3>
               <p className="text-white font-gothic">
@@ -75,7 +75,7 @@ function HomePage() {
             </div>
             {/* STEP 2 */}
             <div className="mb-6">
-              <h3 className="text-xl font-bold text-red-600 mb-2 font-gothic">
+              <h3 className="text-xl font-bold text-black mb-2 font-gothic">
                 STEP 2: DISTILLATION
               </h3>
               <p className="text-white font-gothic">
@@ -86,7 +86,7 @@ function HomePage() {
             </div>
             {/* STEP 3 */}
             <div className="mb-6">
-              <h3 className="text-xl font-bold text-red-600 mb-2 font-gothic">
+              <h3 className="text-xl font-bold text-black mb-2 font-gothic">
                 STEP 3: THE CUT
               </h3>
               <p className="text-white font-gothic">
@@ -100,7 +100,7 @@ function HomePage() {
             </div>
             {/* STEP 4 */}
             <div>
-              <h3 className="text-xl font-bold text-red-600 mb-2 font-gothic">
+              <h3 className="text-xl font-bold text-black mb-2 font-gothic">
                 STEP 4: BLENDING & BOTTLING
               </h3>
               <p className="text-white font-gothic">
